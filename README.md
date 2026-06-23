@@ -20,23 +20,6 @@
 - **Statistics:** regression, hypothesis testing, Bayesian methods, time series, experimental design
 - **Engineering:** signal processing, [add your EEE specialisms]
 ---
-## 📊 Featured Projects
-
-### [Project Name](link)
-One line on what it does and the outcome. *Python, scikit-learn*
-
-### [Project Name](link)
-One line on what it does and the outcome. *R, statistical modelling*
-
-### [Project Name](link)
-One line on what it does and the outcome. *MATLAB, signal processing*
-
----
-## 📈 GitHub Stats
-![Akeel's stats](https://github-readme-stats.vercel.app/api?username=Akeelieo&show_icons=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akeelieo&layout=compact)
-
----
 
 ## 📫 Get in Touch
 
