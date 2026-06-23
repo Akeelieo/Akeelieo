@@ -3,9 +3,7 @@
 **MSc Statistics** student with a **BEng in Electrical & Electronic Engineering**, working at the intersection of data, modelling, and engineering. I enjoy turning messy data into clear answers and building things that work.
 
 🔭 Currently exploring roles in **data science, machine learning, and quantitative analysis**.
-
 ---
-
 ## 🛠️ Skills & Tools
 
 **Languages**
@@ -21,9 +19,7 @@
 
 - **Statistics:** regression, hypothesis testing, Bayesian methods, time series, experimental design
 - **Engineering:** signal processing, [add your EEE specialisms]
-
 ---
-
 ## 📊 Featured Projects
 
 ### [Project Name](link)
@@ -36,11 +32,9 @@ One line on what it does and the outcome. *R, statistical modelling*
 One line on what it does and the outcome. *MATLAB, signal processing*
 
 ---
-
 ## 📈 GitHub Stats
-
-![Akeel's stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact)
+![Akeel's stats](https://github-readme-stats.vercel.app/api?username=Akeelieo&show_icons=true&theme=default)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akeelieo&layout=compact)
 
 ---
 
