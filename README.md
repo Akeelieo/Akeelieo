@@ -1,6 +1,6 @@
 # Hi, I'm Akeel Shah 👋
 
-*MSc Statistics* student with a *BEng in Electrical & Electronic Engineering*, working at the intersection of data, modelling, and engineering. I enjoy turning messy data into clear answers and building things that work.
+- *MSc Statistics* student with a *BEng in Electrical & Electronic Engineering*, working at the intersection of data, modelling, and engineering. I enjoy turning messy data into clear answers and building things that work.
 ---
 ## 🛠️ Skills & Tools
 
