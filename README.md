@@ -1,7 +1,6 @@
 ## About Me
 
-MSc Statistics student with a BEng in EEE, working at the intersection of data, modelling, and engineering. My engineering work spans signal processing, systems modelling and game design using Python, MATLAB, C, Verilog. My statistics work focuses on statistical methods, Monte Carlo simulation, and machine learning in R and Python. I enjoy turning messy data into clear answers and building things that work.
-
+...
 ---
 
 ## Contacts
